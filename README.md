@@ -2,7 +2,7 @@
 Install the most important tools penetrate with one click 
 # Installations 
 
-apt upgrade && apt update
+apt update && apt upgrade
 
 pkg install git
 
